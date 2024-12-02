@@ -1,4 +1,9 @@
-# PC Block
+---
+tags:
+  - PC
+---
+
+# Jonathan "Jack" Velorian
 
 | Character Name | Level   | Class(Lvl) | Sub-Class |
 | :------------: | :---:   | :--------: | :-------: |

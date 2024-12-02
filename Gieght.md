@@ -1,4 +1,10 @@
-# PC Block
+---
+tags:
+  - pc
+  - deceased
+---
+
+# Gieght Foretree (deceased)
 
 | Character Name | Level   | Class(Lvl) | Sub-Class |
 | :------------: | :---:   | :--------: | :-------: |
@@ -40,17 +46,3 @@
 | Bonus Action   | Offhand Attack, Cast Spell                                                                                            |
 | Reaction       | Oppurtunity Attack, Readied Action, Cast Spell                                                                        |
 | Free Action    |                                                                                                                       |
-
-| Spells |      |
-| :----: | :--: |
-| C/0    |      |
-| 1st    |      |
-| 2nd    |      |
-| 3rd    |      |
-| 4th    |      |
-| 5th    |      |
-| 6th    |      |
-| 7th    |      |
-| 8th    |      |
-| 9th    |      |
-

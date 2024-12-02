@@ -1,4 +1,9 @@
-# PC Block
+---
+tags:
+  - PC
+---
+
+# Giliana Ravistel, 6th in line of House Ravistel
 
 | Character Name | Level   | Class(Lvl) | Sub-Class |
 | :------------: | :---:   | :--------: | :-------: |

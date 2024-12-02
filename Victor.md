@@ -1,4 +1,9 @@
-# PC Block
+---
+tags:
+  - PC
+---
+
+# Victor Hitchcock
 
 | Character Name | Level   | Class(Lvl) | Sub-Class |
 | :------------: | :---:   | :--------: | :-------: |

@@ -1,4 +1,9 @@
-# PC Block
+---
+tags:
+  - PC
+---
+
+# Javelin "Wario" Mahoganey
 
 | Character Name | Level   | Class(Lvl) | Sub-Class |
 | :------------: | :---:   | :--------: | :-------: |
