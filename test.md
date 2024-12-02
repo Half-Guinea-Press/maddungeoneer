@@ -15,15 +15,15 @@
 | WIS   | 00/+0 |      | Spd    | Curr | Spent |            |
 | CHR   | 00/+0 |      |        |      |       |            |
 
-| Proficiencies |      |
-| :------------:| :--: |
-| Skills        |      |
-| Tools         |      |
-| Music         |      |
-| Games         |      |
-| Weapon        |      |
-| Armor         |      |
-| Languages     |      |
+| Proficiencies | Prof. Bonus: +2 |
+| :------------:| :-------------: |
+| Skills        |                 |
+| Tools         |                 |
+| Music         |                 |
+| Games         |                 |
+| Weapon        |                 |
+| Armor         |                 |
+| Languages     |                 |
 
 | Features   |      |
 | :--------: | :--: |
@@ -32,6 +32,14 @@
 | Background |      |
 | Species    |      |
 | Feats      |      |
+
+| Action Economy |                                                                                                                       |
+| :------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| Movement       | Move, Drop Prone, High Jump, Difficult Terrain, Climb, Crawl, Long Jump, Grapple Move, Swim, Stand up                 |
+| Action         | Attack, Cast Spell, Dodge, Use Object, Search, Grapple, Dash, Escape, Use Shield, Ready, Shove, Disengage, Help, Hide |
+| Bonus Action   | Offhand Attack, Cast Spell                                                                                            |
+| Reaction       | Oppurtunity Attack, Readied Action, Cast Spell                                                                        |
+| Free Action    |                                                                                                                       |
 
 | Spells |      |
 | :----: | :--: |
@@ -45,3 +53,4 @@
 | 7th    |      |
 | 8th    |      |
 | 9th    |      |
+
