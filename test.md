@@ -2,6 +2,7 @@
 
 Character Name
 
+|      |      |            |      |
 | :--: | :--: | :--------: | :--: |
 | STR  |      | Level      |      |
 | DEX  |      | Class      |      |
