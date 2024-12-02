@@ -2,11 +2,11 @@
 
 Character Name
 
-|      |      |            |      |
-| :--: | :--: | :--------: | :--: |
-| STR  |      | Level      |      |
-| DEX  |      | Class      |      |
-| CON  |      | Sub-Class  |      |
-| INT  |      | Background |      |
-| WIS  |      | Species    |      |
-| CHR  |      | Alignment  |      |
+|      |       |      |            |      |
+| :--: | :-_-: | :--: | :--------: | :--: |
+| STR  | 00/+0 |      | Level      |      |
+| DEX  | 00/+0 |      | Class      |      |
+| CON  | 00/+0 |      | Sub-Class  |      |
+| INT  | 00/+0 |      | Background |      |
+| WIS  | 00/+0 |      | Species    |      |
+| CHR  | 00/+0 |      | Alignment  |      |
