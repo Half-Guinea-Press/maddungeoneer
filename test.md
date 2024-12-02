@@ -15,16 +15,6 @@
 | WIS   | 00/+0 |      | Spd    | Curr | Spent |            |
 | CHR   | 00/+0 |      |        |      |       |            |
 
-## Proficiencies
-
-- Skill Proficiencies:
-- Tool Proficiencies:
-- Musical Instument Proficiencies:
-- Game Set Proficiencies:
-- Weapon Proficiencies:
-- Armor Proficiencies:
-- Languages:
-
 | Proficiencies |      |
 | :------------:| :--: |
 | Skills        |      |
@@ -35,8 +25,23 @@
 | Armor         |      |
 | Languages     |      |
 
+| Features   |      |
+| :--------: | :--: |
+| Class      |      |
+| Sub-Class  |      |
+| Background |      |
+| Species    |      |
+| Feats      |      |
 
-| Passive Perception | Passive Insight | 
-| :----------------: | :-------------: |
-|                    |                 |
-
+| Spells |      |
+| :----: | :--: |
+| C/0    |      |
+| 1st    |      |
+| 2nd    |      |
+| 3rd    |      |
+| 4th    |      |
+| 5th    |      |
+| 6th    |      |
+| 7th    |      |
+| 8th    |      |
+| 9th    |      |
