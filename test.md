@@ -6,19 +6,17 @@
 | Background     | Species | Alignment  | Player    |
 |                |         |            |           | 
 
-|      |       |
-| :--: | :---: |
-| STR  | 00/+0 |
-| DEX  | 00/+0 |
-| CON  | 00/+0 |
-| INT  | 00/+0 |
-| WIS  | 00/+0 |
-| CHR  | 00/+0 |
+| Abil. | Score | Save | Combat | HP   | HD    | Passive    |
+| :---: | :---: | :--: | :----: | :--: | :---: | :--------: |
+| STR   | 00/+0 |      | AC     | Max  | Type  | Perception |  
+| DEX   | 00/+0 |      |        |      | 0d0   |            |
+| CON   | 00/+0 |      | Init.  | Temp | Max   | Insight    |
+| INT   | 00/+0 |      |        |      |       |            |
+| WIS   | 00/+0 |      | Spd    | Curr | Spent |            |
+| CHR   | 00/+0 |      |        |      |       |            |
 
 ## Proficiencies
 
-- Proficiency Bonus: 
-- Saving Throws:
 - Skill Proficiencies:
 - Tool Proficiencies:
 - Musical Instument Proficiencies:
@@ -26,6 +24,17 @@
 - Weapon Proficiencies:
 - Armor Proficiencies:
 - Languages:
+
+| Proficiencies |      |
+| :------------:| :--: |
+| Skills        |      |
+| Tools         |      |
+| Music         |      |
+| Games         |      |
+| Weapon        |      |
+| Armor         |      |
+| Languages     |      |
+
 
 | Passive Perception | Passive Insight | 
 | :----------------: | :-------------: |
