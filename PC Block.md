@@ -1,14 +1,13 @@
 # PC Block
 
-Character Name | Level | Class(Lvl) | Sub-Class
-:------------: | :---: | :--------: | :-------:
-               |       |            |           
+| Character Name | Level | Class(Lvl) | Sub-Class |
+| :------------: | :---: | :--------: | :-------: |
+|                |       |            |           | 
 
-Background | Species | Alignment | Player
-:--------: | :-----: | :-------: | :----:
-           |         |           |        
+| Background | Species | Alignment | Player |
+| :--------: | :-----: | :-------: | :----: |
+|            |         |           |        | 
 
-STR  | DEX  | CON  | INT  | WIS  | CHR 
-:--: | :--: | :--: | :--: | :--: | :--:
-     |      |      |      |      |     
-
+| STR  | DEX  | CON  | INT  | WIS  | CHR  |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+|      |      |      |      |      |      |
