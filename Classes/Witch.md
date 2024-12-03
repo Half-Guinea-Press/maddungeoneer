@@ -6,6 +6,7 @@ bubbling with a noxious fume. In the smoke and
 vapor above the pot, the trio can make out shapes
 and figures of great import, and one cackles loudly at
 what she sees.
+
 A young girl sits underneath a tree, far from
 where the other children play. She glances about to
 make sure noone is watching, and snaps her fingers
@@ -17,18 +18,22 @@ children, a heavy-set boy with a permanently affixed
 scowl; the cat understands. It wanders close to the
 boy, stretches its claws, and gets very low, ready to
 pounce for the boy’s eyes.
+
 A young elf intently mutters something
 underneath his breath each time he exhales. Visible
 only to him, a string of the foulest magic winds out
 from him and seizes a charging orc, which drops to
 its knees in agony.
+
 Witches are stricken by magic so dark it
 imprints a lasting shadow upon their essence.
 Through force of personality alone, they can spin
 this darkness outward, hexing creatures, casting
 manipulative spells, and even commanding a familiar
 with their thoughts.
+
 Cursed
+
 While others are blessed with magic, witches are
 cursed by it. Afflicted by some hateful arcana,
 whether accidentally or intentionally, witches are
@@ -36,7 +41,9 @@ twisted inside and out by its daily tortures. With
 gruesome effort, they can warp this power into spells
 to wrack others with the same torture which plagues
 them.
+
 Pariahs and Outcasts
+
 Almost without exception, witches are feared
 and hated. They are victim to a number of
 misconceptions, usually relating them to hags and
@@ -46,6 +53,7 @@ be found dwelling on the outskirts of civilization
 where townsfolk seldom tread. This does little to
 stop witch hunting and burnings, but provides some
 measure of safety from them.
+
 In reality, very few choose to become witches,
 and many of them can hide adeptly in society, using
 their magic to fill a number of roles, from seer,
@@ -53,7 +61,9 @@ to healer, to apothecary. Being accused as a witch
 carries grave consequences, no matter the validity of
 the claim, so wise witches relocate frequently, never
 residing in one place for too long.
+
 Familiar Masters
+
 It is rare to find a witch without his or her constant
 companion, the familiar. Though familiars might
 be conjured by other spellcasters as well, a witch’s
@@ -62,7 +72,9 @@ reason. Witches command intuitive magic, and have
 a deep link to their familiars. As a result, they can
 conjure more exotic familiars, and command them
 more swiftly than other spellcasters.
+
 Creating a Witch
+
 Creating a witch necessarily involves a powerful,
 malicious curse in your backstory. Who cast it? Did
 you take a curse upon yourself for power? Was your
@@ -73,6 +85,7 @@ on the nature of your witch’s curse and think about
 how you relate to it. Do you feel like the curse was
 secretly a blessing, or does the desire for vengeance
 burn in your heart?
+
 What negative effects does the curse leverage
 on your personality and mind? Are you haunted
 by spirits, or is your mind plagued by destructive
@@ -85,13 +98,16 @@ Do the other characters in your party know of your
 witchhood? Some witches keep the source of their
 magic a secret, or claim to be wizards or sorcerers to
 conceal the true darkness of their magic.
+
 QUICK BUILD
+
 To build a witch quickly, make Charisma your
 highest ability score, followed by Constitution. Then,
 choose the chill touch and minor illusion cantrips,
 and the spells hideous laughter and thunderwave.
 Lastly, choose the Hideous witch’s curse, and the
 hexes Evil Eye and Misfortune.
+
 LEVEL
 PROF.
 BONUS FEATURES
@@ -101,61 +117,105 @@ CANTRIPS
 KNOWN
 SPELLS
 KNOWN 1ST 2ND 3RD 4TH 5TH 6TH 7TH 8TH 9TH
+
 1st +2 Hexes, Spellcasting,
 Witch’s Curse
 2 4 2 2 — — — — — — — —
+
 2nd +2 Cackle, Familiar 3 4 3 3 — — — — — — — —
+
 3rd +2 Witch's Craft 3 4 4 4 2 — — — — — — —
+
 4th +2 Ability Score Improvement 3 5 5 4 3 — — — — — — —
+
 5th +3 Insidious Spell 4 5 6 4 3 2 — — — — — —
+
 6th +3 Craft feature 4 5 7 4 3 3 — — — — — —
+
 7th +3 Improved Familiar 4 5 8 4 3 3 1 — — — — —
+
 8th +3 Ability Score Improvement 4 5 9 4 3 3 2 — — — — —
+
 9th +4 Dying Curse 5 5 10 4 3 3 3 1 — — — —
+
 10th +4 Craft feature 5 6 11 4 3 3 3 2 — — — —
+
 11th +4 Grand Hex 5 6 12 4 3 3 3 2 1 — — —
+
 12th +4 Ability Score Improvement 5 6 12 4 3 3 3 2 1 — — —
+
 13th +5 Grand Hex 6 6 13 4 3 3 3 2 1 1 — —
+
 14th +5 Craft feature 6 6 13 4 3 3 3 2 1 1 — —
+
 15th +5 Grand Hex 6 6 14 4 3 3 3 2 1 1 1 —
+
 16th +5 Ability Score Improvement 6 6 14 4 3 3 3 2 1 1 1 —
+
 17th +6 — 7 6 15 4 3 3 3 2 1 1 1 1
+
 18th +6 Grand Hex 7 6 15 4 3 3 3 3 1 1 1 1
+
 19th +6 Ability Score Improvement 7 6 15 4 3 3 3 3 2 1 1 1
+
 20th +6 Hexmaster 7 6 15 4 3 3 3 3 2 2 1 1
+
 CLASS FEATURES
+
 As a witch, you have the following class features.
+
 HIT POINTS
+
 Hit Dice: 1d8 per witch level
+
 Hit Points at 1st Level: 8 + your Constitution
 modifier
+
 Hit Points at Higher Levels: 1d8 (or 5) + your
 Constitution modifier per witch level after 1st
+
 PROFICIENCIES
+
 Armor: Light armor
+
 Weapons: Simple weapons, blowguns, shortswords,
 and whips
+
 Tools: Alchemist supplies, poisoner’s kit
+
 Saving Throws: Wisdom, Charisma
+
 Skills: Choose two from Arcana, Deception, Insight,
 Intimidation, Persuasion, Nature, and Religion
+
 EQUIPMENT
+
 You start with the following equipment, in addition
 to the equipment granted by your background:
+
 • (a) a whip and blowgun, (b) a light crossbow and
 20 bolts or, (c) any simple weapon
+
 • (a) a component pouch or (b) an arcane focus
+
 • (a) a scholar’s pack or (b) a dungeoneer’s pack
+
 • Leather armor, any simple weapon, and a dagger
+
 Spellcasting
+
 You have learned to mold and reshape the magic that
 curses you into spells.
+
 CANTRIPS
+
 You know four cantrips of your choice from the
 witch spell list. You learn additional witch cantrips of
 your choice at higher levels, as shown in the Cantrips
 Known column of the Witch table.
+
 SPELL SLOTS
+
 The Witch table shows how many spell slots you
 have to cast your spells of 1st level and higher. To
 cast one of these spells, you must expend a slot of
@@ -164,23 +224,29 @@ spell slots when you finish a long rest.
 For example, if you know the 1st-level spell
 bane and have a 1st-level and a 2nd-level spell slot
 available, you can cast bane using either slot.
+
 SPELLS KNOWN OF 1ST LEVEL OR HIGHER
+
 You know two 1st-level spells of your choice from
 the witch spell list. The Spells Known column of the
 Witch table shows when you learn more witch spells
 of your choice.
+
 Each of these spells must be of a level for
 which you have spell slots, as shown on the table.
 For instance, when you reach 3rd level in this
 class, you can learn one new spell of 1st or 2nd
 level.
+
 Additionally, when you gain a level
 in this class, you can choose one of the
 witch spells you know and replace it
 with another spell from the witch spell
 list, which also must be of a level for
 which you have spell slots.
+
 SPELLCASTING ABILITY
+
 Charisma is your spellcasting ability for your witch
 spells. Your magic originates deep within yourself,
 where your insidious curse stirs restlessly. You use
@@ -189,21 +255,30 @@ spellcasting ability. In addition, you use your
 Charisma modifier when setting the saving
 throw DC for a witch spell you cast and when
 making an attack roll with one.
+
 Spell save DC = 8 + your proficiency
 bonus + your Charisma modifier
+
 Spell attack modifier = your
 proficiency bonus + your Charisma
 modifier
+
 RITUAL CASTING
+
 You can cast any witch spell you know as a ritual if
 that spell has the ritual tag.
+
 SPELLCASTING FOCUS
+
 You can use an arcane focus as a spellcasting focus
 for your witch spells.
+
 Witch’s Curse
+
 You are wracked by a terrible curse which infects
 your body and soul. At 1st level, choose the form that
 this curse takes from the options below.
+
 Burned. Almost all of your body has been
 scorched by arcane flames, leaving you with striking
 black scars and embers of magic that burn under the
@@ -211,10 +286,12 @@ skin. As a result, you have resistance to fire damage,
 and you know the cantrip produce flame, which does
 not count against your total number of cantrips
 known.
+
 Drowned. Water fills your lungs, and yet
 you do not die. You can breathe air and water.
 Additionally, you have a swimming speed equal to
 your walking speed.
+
 Feral. Through your curse, you have forgotten
 the manners and customs of civilized men and
 gone to live among beasts in the wild. Hunting and
@@ -222,29 +299,35 @@ fighting daily, you have become savage. You have
 proficiency in the Survival skill. Additionally, while
 you are wearing no armor and not wielding a shield,
 your AC equals 12 + your Dexterity modifier.
+
 Hideous. Your appearance is ghastly to behold.
 You have proficiency in the Intimidation skill. When
 you roll initiative, you can choose one humanoid
 you can see to scare. That creature must make a
 Wisdom saving throw against your spell save DC or
 be frightened until the end of your next turn.
+
 Hollow. Your soul has been divorced from
 your body, trapping you in a limbo between life and
 death. When you or your familiar reduces a hostile
 creature to 0 hit points, you drain some of its life
 force, and gain temporary hit points equal to your
 witch level + Charisma modifier (minimum of 1).
+
 Infested. You are constantly followed by
 vermin, like insects and rats, which crawl on your
 skin and swarm in your wake. As a result, you are
 immune to being diseased.
+
 Additionally, you can command these pests as
 your own. Starting at 2nd level, you can choose the
 form of a swarm of rats for your familiar. Starting at
 7th level, you can choose a swarm of insects.
+
 Loveless. You are cursed to never find true love.
 Jaded and disaffected, not even magic can turn your
 heart; as a result, you are immune to being charmed.
+
 Possessed. Your soul is occupied by a foreign
 spirit that sometimes tries to wrest away your
 consciousness. However, while you sleep, the spirit
@@ -253,6 +336,7 @@ additional witch spell at a level for which you have
 spell slots at 1st level, and again at 4th level, 8th level,
 and 12th level. These spells do not count against your
 total number of spells known.
+
 Starving. No matter how much you eat, food
 turns to ash in your mouth. Your curse nourishes
 you, but only at the edge of starvation, and you are
@@ -260,6 +344,7 @@ constantly wracked by pangs of hunger. You don’t
 need to eat or drink, but can still imbibe and benefit
 from potions. Additionally, you are immune to being
 poisoned.
+
 Visions. You are cursed to have terrible visions
 of the future, presaging the death of your friends,
 family, and yourself. However many of these visions
@@ -267,16 +352,20 @@ are cruel deceptions, they are sometimes grimly
 accurate. You can add your Charisma modifier, in
 addition to your Dexterity modifier, to your initiative
 rolls.
+
 Whispers. Unseen voices murmer in your ears
 at all times. As such, you can telepathically speak to
 any creature you can see within 30 feet of you. You
 don’t need to share a language with the creature for it
 to understand your telepathy, but the creature must
 be able to understand at least one language.
+
 Hexes
+
 You can learn a number of powerful incantations,
 known as hexes, derived from the same insidious
 magic which cursed you.
+
 At 1st level, you gain two hexes of your choice.
 Your hex options are detailed at the end of the class
 description. When you gain certain witch levels,
@@ -285,17 +374,21 @@ in the Hexes Known column of the Witch table.
 Additionally, when you gain a level in this class, you
 can choose one of the hexes you know and replace it
 with another hex.
+
 Unless otherwise stated, if a hex calls for an
 attack roll or saving throw, it uses your spell attack
 bonus or spell save DC. All hexes require verbal or
 somatic components (caster’s choice at the time of
 casting.)
+
 Unless otherwise noted, if a hex lasts for a
 duration, you concentrate on it as you would a spell.
 You can concentrate on a hex and a spell at the same
 time, and you make only one Constitution saving
 throw to maintain your concentration on both.
+
 Cackle
+
 At 2nd level, you can use your bonus action to
 cackle. The duration of your hex extends by 1 round
 for each creature affected within 60 feet of you.
@@ -304,7 +397,9 @@ cackle, but all cackles require a verbal component,
 as a spell. These range from mundane curses and
 insults, to the murmuring of dead languages and
 speaking backwards.
+
 Familiar
+
 At 2nd level, you learn the find familiar spell and
 can cast it as a ritual without material components.
 The spell doesn’t count against your number of spells
