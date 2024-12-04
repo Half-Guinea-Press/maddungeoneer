@@ -11,13 +11,13 @@
 
 ## Player Characters
 
-- [Gieght Foretree](Gieght%20Foretree.md) (deceased)
-- [Giliana Ravistel](Giliana%20Ravistel.md), 6th in line of House Ravistel
-- [Javelin "Wario" Mahoganey](Javelin%20Mahoganey.md)
-- [Jonathan "Jack" Velorian](Jack%20Velorian.md)
-- [Nicolas "Claus" Faylen](Claus%20Faylen.md)
-- [Victor Hitchcock](Victor%20Hitchcock.md)
-- [Stubbs](Stubbs.md)
+- [Gieght Foretree](Campaign%20H/Gieght%20Foretree.md) (deceased)
+- [Giliana Ravistel](Campaign%20H/Giliana%20Ravistel.md), 6th in line of House Ravistel
+- [Javelin "Wario" Mahoganey](Campaign%20H/Javelin%20Mahoganey.md)
+- [Jonathan "Jack" Velorian](Campaign%20H/Jack%20Velorian.md)
+- [Nicolas "Claus" Faylen](Campaign%20H/Claus%20Faylen.md)
+- [Victor Hitchcock](Campaign%20H/Victor%20Hitchcock.md)
+- [Stubbs](Campaign%20H/Stubbs.md)
 
 ## Non-Player Characters
 
