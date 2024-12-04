@@ -1,0 +1,3 @@
+# SHARED MUTAGEN
+
+At 6th level, you’ve created a mutagen formulation generic enough to safely be injected into others. You can use your action and spend a reagent die to inject a willing creature within 5 feet of you with a mutagen of your choice. A creature can only be under the effect of one mutagen at a time. Once you have injected another creature with a mutagen, you can’t do so again until the original mutagen ends.
