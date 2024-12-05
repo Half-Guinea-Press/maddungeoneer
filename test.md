@@ -2,7 +2,7 @@
 ### Character One Liner
 #### \# Level Species Class(Sub-Class)<sub>Level</sub>
 ---
-
+###### [[Main]] [[Backstory]] [[Sheet]] [[Spells]] [[Equipment]]
 ---
 #### Physical Description
 
