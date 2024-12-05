@@ -13,19 +13,26 @@
 | WIS   | 00/+0 |      | Spd    | Curr | Spent |            |
 | CHR   | 00/+0 |      |        |      |       |            |
 
+---
+
 ## Proficiencies (Proficiency Bonus +\#)
 
-| Skills                      |      |                             |       | Tools | Weapons | Armor | Languages |
-| :-------------------------: | :--: | :-------------------------: | :---: | :---: | :-----: | :---: | :-------: |
-| Acrobatics<sup>P</sup>      |      | Medicine<sup>P</sup>        |       |       |         |       |           |
-| Animal Handling<sup>P</sup> |      | Nature<sup>P</sup>          |       |       |         |       |           |
-| Arcana<sup>P</sup>          |      | Perception<sup>P</sup>      |       |       |         |       |           |
-| Athletics<sup>P</sup>       |      | Performance<sup>P</sup>     |       |       |         |       |           |
-| Deception<sup>P</sup>       |      | Persuasion<sup>P</sup>      |       |       |         |       |           |
-| History<sup>P</sup>         |      | Religion<sup>P</sup>        |       |       |         |       |           |
-| Insight<sup>P</sup>         |      | Slieght of Hand<sup>P</sup> |       |       |         |       |           |
-| Intimidation<sup>P</sup>    |      | Stealth<sup>P</sup>         |       |       |         |       |           |
-| Investigation<sup>P</sup>   |      | Survival<sup>P</sup>        |       |       |         |       |           |
+| ### Skills                  |      |                           |      |                             |       |
+| :-------------------------: | :--: | :-----------------------: | :--: | :-------------------------: | :---: |
+| Acrobatics<sup>P</sup>      |      | Insight<sup>P</sup>       |      | Performance<sup>P</sup>     |       |
+| Animal Handling<sup>P</sup> |      | Intimidation<sup>P</sup>  |      | Persuasion<sup>P</sup>      |       |
+| Arcana<sup>P</sup>          |      | Investigation<sup>P</sup> |      | Religion<sup>P</sup>        |       |
+| Athletics<sup>P</sup>       |      | Medicine<sup>P</sup>      |      | Slieght of Hand<sup>P</sup> |       |
+| Deception<sup>P</sup>       |      | Nature<sup>P</sup>        |      | Stealth<sup>P</sup>         |       |
+| History<sup>P</sup>         |      | Perception<sup>P</sup>    |      | Survival<sup>P</sup>        |       |
+
+### Tools
+
+### Weapons & Armor
+
+### Languages
+
+---
 
 | Features   |      |
 | :--------: | :--: |
@@ -34,6 +41,8 @@
 | Background |      |
 | Species    |      |
 | Feats      |      |
+
+---
 
 | Action Economy |                                                                                                                       |
 | :------------: | :-------------------------------------------------------------------------------------------------------------------: |
