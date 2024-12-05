@@ -46,12 +46,12 @@
 
 ---
 
-| Action Economy |                                                                                                                       |
-| :------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| Movement       | Move, Drop Prone, High Jump, Difficult Terrain, Climb, Crawl, Long Jump, Grapple Move, Swim, Stand up                 |
-| Action         | Attack, Cast Spell, Dodge, Use Object, Search, Grapple, Dash, Escape, Use Shield, Ready, Shove, Disengage, Help, Hide |
-| Bonus Action   | Offhand Attack, Cast Spell                                                                                            |
-| Reaction       | Oppurtunity Attack, Readied Action, Cast Spell                                                                        |
+| Action Economy | Standard                                                                                                              |      |
+| :------------: | :-------------------------------------------------------------------------------------------------------------------: | :--: |
+| Movement       | Move, Drop Prone, High Jump, Difficult Terrain, Climb, Crawl, Long Jump, Grapple Move, Swim, Stand up                 |      |
+| Action         | Attack, Cast Spell, Dodge, Use Object, Search, Grapple, Dash, Escape, Use Shield, Ready, Shove, Disengage, Help, Hide |      |
+| Bonus Action   | Offhand Attack, Cast Spell                                                                                            |      |
+| Reaction       | Oppurtunity Attack, Readied Action, Cast Spell                                                                        |      |
 
 
 
