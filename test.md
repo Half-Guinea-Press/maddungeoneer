@@ -41,23 +41,33 @@
 
 ## Proficiencies (Proficiency Bonus +\3)
 
-| Skills                 |      | Tools | Weapons | Armor | Languages |
-| :--------------------: | :--: | :---: | :-----: | :---: | :-------: |
-| Acrobatics<sup>P</sup> |      |       |         |       |           |
-| Animal Handling |      |       |         |       |           |
-| Arcana          |      |       |         |       |           |
-| Athletics       |      |       |         |       |           |
-| Deception       |      |       |         |       |           |
-| History         |      |       |         |       |           |
-| Insight         |      |       |         |       |           |
-| Intimidation    |      |       |         |       |           |
-| Investigation   |      |       |         |       |           |
-| Medicine        |      |       |         |       |           |
-| Nature          |      |       |         |       |           |
-| Perception      |      |       |         |       |           |
-| Performance     |      |       |         |       |           |
-| Persuasion      |      |       |         |       |           |
-| Religion        |      |       |         |       |           |
-| Slieght of Hand |      |       |         |       |           |
-| Stealth         |      |       |         |       |           |
-| Survival        |      |       |         |       |           |
+| Skills                      |      |                             |       | Tools | Weapons | Armor | Languages |
+| :-------------------------: | :--: | :-------------------------: | :---: | :---: | :-----: | :---: | :-------: |
+| Acrobatics<sup>P</sup>      |      | Medicine<sup>P</sup>        |       |       |         |       |           |
+| Animal Handling<sup>P</sup> |      | Nature<sup>P</sup>          |       |       |         |       |           |
+| Arcana<sup>P</sup>          |      | Perception<sup>P</sup>      |       |       |         |       |           |
+| Athletics<sup>P</sup>       |      | Performance<sup>P</sup>     |       |       |         |       |           |
+| Deception<sup>P</sup>       |      | Persuasion<sup>P</sup>      |       |       |         |       |           |
+| History<sup>P</sup>         |      | Religion<sup>P</sup>        |       |       |         |       |           |
+| Insight<sup>P</sup>         |      | Slieght of Hand<sup>P</sup> |       |       |         |       |           |
+| Intimidation<sup>P</sup>    |      | Stealth<sup>P</sup>         |       |       |         |       |           |
+| Investigation<sup>P</sup>   |      | Survival<sup>P</sup>        |       |       |         |       |           |
+
+## Action Economy
+
+| Movement          | Action     | Bonus Action   | Reaction           |
+| :---------------: | :--------: | :------------: | :----------------: |
+| Move              | Attack     | Offhand Attack | Oppurtunity Attack |
+| Drop Prone        | Cast Spell | Cast Spell     | Readied Action     |
+| High Jump         | Dodge      |                | Cast Spell         |
+| Difficult Terrain | Use Object |                |                    |
+| Climb             | Search     |                |                    |
+| Crawl             | Grapple    |                |                    |
+| Long Jump         | Dash       |                |                    |
+| Grapple Move      | Escape     |                |                    |
+| Swim              | Use Shield |                |                    |
+| Stand up          | Ready      |                |                    |
+|                   | Shove      |                |                    |
+|                   | Disengage  |                |                    |
+|                   | Help       |                |                    |
+|                   | Hide       |                |                    |
