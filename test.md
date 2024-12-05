@@ -2,6 +2,6 @@
 
 # Character Name
 ### Species Class Sub-Class Level
-###### Character one liner
+#### Character one liner
 ---
 
