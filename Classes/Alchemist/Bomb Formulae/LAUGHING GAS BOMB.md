@@ -1,0 +1,3 @@
+# LAUGHING GAS BOMB
+
+By mixing your bomb’s explosive contents with a drop of jesterate, a highly euphoric chemical, you can change it into a laughing gas bomb. A laughing gas bomb deals poison damage instead of fire damage, has d6 damage dice, and requires a Constitution saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, falls prone in a fit of laughter. Once a creature falls prone due to this bomb's effects, it is immune to this effect (but not the bomb's poison damage) for 24 hours.

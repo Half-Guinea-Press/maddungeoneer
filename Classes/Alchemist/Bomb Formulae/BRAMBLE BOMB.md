@@ -1,0 +1,3 @@
+# BRAMBLE BOMB
+
+By adding a potent fertilizer to your bomb’s explosive contents, you can change it into a bramble bomb. A bramble bomb deals no damage, and instead causes tough, thorny brambles to sprout from any area of natural ground within the bomb’s blast radius, which becomes difficult terrain. Additionally, if a creature in the blast radius is prone when the bomb detonates, it is enveloped by the brambles and must make a Strength (Athletics) check opposed by your bomb save DC in order to move or stand. The brambles shrivel and die after 1 minute.

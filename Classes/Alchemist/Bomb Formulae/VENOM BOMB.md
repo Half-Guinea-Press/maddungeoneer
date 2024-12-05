@@ -1,0 +1,3 @@
+# VENOM BOMB
+
+At 2nd level, you can create venom bombs. By mixing a few drops of a fast-acting toxin into your bomb’s explosive components, you can change it into a venom bomb. A venom bomb deals poison damage instead of fire damage, has d8 damage dice, and requires a Constitution saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, have disadvantage on the next Strength, Dexterity, or Constitution saving throw it makes before the end of its next turn.

@@ -1,0 +1,3 @@
+# INCENDIARY BOMB
+
+By adding a thickening agent to your bomb’s explosive contents, you can change it into an incendiary bomb. An incendiary bomb has d6 damage dice. Additionally, the area of the blast radius is engulfed in flames which persist until the beginning of your next turn. Flammable objects in this area that aren’t being worn or carried ignite. Any creature that ends its turn in this area takes half the bomb’s damage.
