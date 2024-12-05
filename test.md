@@ -41,9 +41,9 @@
 
 ## Proficiencies (Proficiency Bonus +\3)
 
-| Skills             |      | Tools | Weapons | Armor | Languages |
-| :----------------: | :--: | :---: | :-----: | :---: | :-------: |
-| Acrobatics^P^      |      |       |         |       |           |
+| Skills                 |      | Tools | Weapons | Armor | Languages |
+| :--------------------: | :--: | :---: | :-----: | :---: | :-------: |
+| Acrobatics<sup>P</sup> |      |       |         |       |           |
 | Animal Handling |      |       |         |       |           |
 | Arcana          |      |       |         |       |           |
 | Athletics       |      |       |         |       |           |
