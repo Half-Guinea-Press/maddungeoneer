@@ -1,4 +1,4 @@
 # Character Main Page Template
 ### Character One Liner
-#### Character Level Species Class(Sub-Class)^Level
+#### Character Level Species Class(Sub-Class)^Level^
 ---
