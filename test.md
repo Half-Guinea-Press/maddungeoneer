@@ -1,9 +1,7 @@
 # Character Main Page Template
 
-# ;lksjfd
-## ;lksjfd
-### ;lksjfd
-#### ;lksjfd
-##### ;lksjfd
-###### ;lksjfd
+# Character Name
+### Species Class Sub-Class Level
+###### Character one liner
+---
 
