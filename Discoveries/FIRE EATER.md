@@ -1,0 +1,3 @@
+# FIRE EATER
+
+Instead of throwing a bomb, you use an action to drink its contents and spit them out in a 15-foot cone. Each creature within the cone must make a Dexterity saving throw against your bomb save DC. On a failed save, a creature takes fire damage as if the bomb had been primed and thrown with the Use an Object action, or half as much on a successful save. When you use this ability, you take 1d4 points of fire damage each of your bomb’s damage dice.
