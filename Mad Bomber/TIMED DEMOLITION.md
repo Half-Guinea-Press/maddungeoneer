@@ -1,3 +1,0 @@
-# TIMED DEMOLITION
-
-Starting at 6th level, when you take the Use an Object action to prime a bomb and throw it, you can set a duration for its detonation, which can be any number of rounds (any increment of 6 seconds) up to one minute. Following this duration, the bomb detonates at the end of your turn. No matter how many bombs detonate at once, a creature in more than one blast radius is affected only once.
