@@ -1,3 +1,0 @@
-# PAINKILLER BOMB
-
-At 2nd level, you can create painkiller bombs. By mixing your bomb’s explosive contents with a slurry of analgesic oil, you can change it into a painkiller bomb. A painkiller bomb deals no damage, and instead grants each creature within its blast radius temporary hit points equal to 1d8 plus half your alchemist level, which last until the end of your next turn. This bomb has no effect on constructs and undead.

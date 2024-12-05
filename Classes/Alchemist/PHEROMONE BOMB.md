@@ -1,3 +1,0 @@
-# PHEROMONE BOMB
-
-Starting at 2nd level, you can craft pheromone bombs. By replacing your bomb’s explosive contents with a potent pheromone, you can change it into a pheromone bomb. A pheromone bomb requires a Wisdom saving throw instead of a Dexterity save. The bomb deals no damage, and instead causes the target, as well as each creature within the blast radius that fails its saving throw, to be charmed by you until the end of its turn or it takes damage.

@@ -1,3 +1,0 @@
-# NUCLEAR BOMB
-
-By replacing your bomb’s explosive contents with your philosopher’s stone, you can change it into a nuclear bomb. A nuclear bomb deals 10d10 + 100 force damage instead of its normal fire damage, has a blast radius of 1 mile, and completely destroys the philosopher’s stone. Additionally, each creature within the blast radius that fails its saving throw takes the full bomb damage rolled, or half on a successful save. Creatures within 60 feet can’t avoid this damage with Evasion or other features or spells.
