@@ -1,22 +1,10 @@
-# Title
+# Character Main Page Template
 
-## Second
+# Character Name
+###### One line description
 
-# Title
+---
 
-### Third
-
-# Title
-
-#### Fourth
-
-# Title
-
-##### Fifth
-
-# Title
-###### Sub-title
-
-# Title
-
-Regular Text
+# Character Name
+###### One line description
+---
