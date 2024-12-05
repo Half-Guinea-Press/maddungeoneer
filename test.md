@@ -17,7 +17,7 @@
 
 ## Proficiencies (Proficiency Bonus +\#)
 
-| ### Skills                  |      |                           |      |                             |       |
+| Skills                      |      |                           |      |                             |       |
 | :-------------------------: | :--: | :-----------------------: | :--: | :-------------------------: | :---: |
 | Acrobatics<sup>P</sup>      |      | Insight<sup>P</sup>       |      | Performance<sup>P</sup>     |       |
 | Animal Handling<sup>P</sup> |      | Intimidation<sup>P</sup>  |      | Persuasion<sup>P</sup>      |       |
@@ -26,11 +26,13 @@
 | Deception<sup>P</sup>       |      | Nature<sup>P</sup>        |      | Stealth<sup>P</sup>         |       |
 | History<sup>P</sup>         |      | Perception<sup>P</sup>    |      | Survival<sup>P</sup>        |       |
 
-### Tools
+#### Tools
 
-### Weapons & Armor
+#### Weapons
 
-### Languages
+#### Armor
+
+#### Languages
 
 ---
 
