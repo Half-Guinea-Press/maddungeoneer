@@ -1,7 +1,0 @@
-# IT'S ALIVE!
-
-Beginning at 18th level, your research into the field of necromancy has culminated in an [[Alchemical Golem]] stitched together from discarded body parts. You can create an alchemy golem in an 8-hour long procedure, which can be conducted over the course of a long rest. To complete this process, you must have a healer’s kit, alchemist’s supplies, and a knife (or a facility with access to such tools), as well as at least three recently deceased humanoid corpses.
-
-Your alchemy golem acts independently on its own turn, but always obeys your commands. On each of your turns, you can use a bonus action to mentally command your golem if it is within 60 feet of you. You decide what action the golem will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the golem only defends itself against hostile creatures. Once given an order, the golem continues to follow it until its task is complete. When the alchemy golem drops to 0 hit points, it dies. You can restore your alchemy golem’s hit points and reanimate it over the course of a short or long rest.
-
-You can attach up to three grafts to your alchemy golem. You can only have one alchemy golem at a time. 
