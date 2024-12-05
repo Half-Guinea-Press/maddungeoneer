@@ -1,6 +1,6 @@
 # Character Main Page Template
-Character One Liner
-: \# Level Species Class(Sub-Class)<sub>Level</sub>
+### Character One Liner
+#### \# Level Species Class(Sub-Class)<sub>Level</sub>
 ###### [Main](Character%20Main.md) | [Backstory](Character%20Backstory.md) | [Sheet](Character%20Character%20Sheet.md) | [Spell List](Character%20Spell%20List.md) | [Equipment](Character%20Equipment.md)
 
 #### Physical Description
