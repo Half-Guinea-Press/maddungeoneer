@@ -1,7 +1,4 @@
 # Character Main Page Template
-
-# Character Name
-### Species Class Sub-Class Level
-#### Character one liner
+### Character One Liner
+#### Character Level Species Class(Sub-Class)^Level
 ---
-
