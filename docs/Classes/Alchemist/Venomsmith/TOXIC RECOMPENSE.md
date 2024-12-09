@@ -1,0 +1,3 @@
+# TOXIC RECOMPENSE
+
+Starting the 18th level, whenever a creature within 5 feet of you hits you with a melee attack, you can use your reaction to unleash a spray of poisonous vapor. The attacker must make a Constitution saving throw against your bomb save DC or be poisoned for 1 minute. While poisoned, the creature takes 1d10 poison damage at the start of each of its turns. A poisoned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

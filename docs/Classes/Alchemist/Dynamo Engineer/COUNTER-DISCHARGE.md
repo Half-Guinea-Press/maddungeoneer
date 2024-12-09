@@ -1,0 +1,3 @@
+# COUNTER-DISCHARGE
+
+Beginning at 10th level, when a creature you can see casts a spell which affects you, you can use your reaction to expend a spell dynamo to release a wave of disruptive magical energy. If the spell requires you to make a saving throw to resist its effects, you have advantage on the saving throw. If the spell deals damage, you have resistance against it. Once you use this ability, you can’t use it again until you finish a long rest.
