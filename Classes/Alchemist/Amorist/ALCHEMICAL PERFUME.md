@@ -1,3 +1,0 @@
-# ALCHEMICAL PERFUME
-
-Beginning at 10th level, you wear an aromatic mind-altering perfume which endears others to you. When a hostile creature within 5 feet of you makes an attack roll against you, it must make a Wisdom saving throw against you bomb save DC or have disadvantage on the attack roll. Once a creature succeeds on this saving throw, it is immune to this effect for 24 hours. Creatures which are immune to being charmed automatically succeed this save.

@@ -1,3 +1,0 @@
-# WITHERING BOMB
-
-By mixing your bomb’s explosive components with a powerful desiccating agent, you can change it into a withering bomb. A withering bomb deals necrotic damage instead of fire damage, has d8 damage dice, and requires a Constitution saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, can’t regain hit points until the end of its next turn.

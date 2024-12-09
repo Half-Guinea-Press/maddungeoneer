@@ -1,3 +1,0 @@
-# VENOMSMITH POISONER
-
-Beginning when you choose this field of study at 2nd level, you gain the [[Poisoner]] discovery. Until you reach 3rd level, you have 2 reagent dice which can spend only on crafting poisons using this discovery. You can’t later replace this discovery with a different one when you gain a level in this class. Additionally, when you deal poison damage to a creature, you ignore resistance to poison damage and you treat immunity to poison damage as resistance instead, dealing half damage.

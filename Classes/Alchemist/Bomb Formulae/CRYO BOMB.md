@@ -1,3 +1,0 @@
-# CRYO BOMB
-
-By replacing your bomb’s explosive contents with a piece of ice nine, you can change it into a cryo bomb. A cryo bomb deals cold damage instead of fire damage, has d8 damage dice, and requires a Constitution saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, has its speed decreased by 10 feet until the end of its next turn.
