@@ -1,7 +1,7 @@
+# Character Questionaire
 ### Character One Liner
 #### \# Level Species Class(Sub-Class)<sub>Level</sub>
-###### [Main](Character%20Main.md) | [Backstory](Character%20Backstory.md) | [Questionaire](Character%20Questionaire.md) | [Sheet](Character%20PC%20Sheet.md) | [Short Sheet](Character%20NPC%20Sheet.md) |
- [Spell List](Character%20Spell%20List.md) | [Equipment](Character%20Equipment.md)
+###### [Main]Character%20Main%20Template.md) | [Backstory]Character%20Backstory%20Template.md) | [Questionaire]Character%20Questionaire%20Template.md) | [Sheet]Character%20PC%20Sheet%20Template.md) | [Short Sheet]Character%20NPC%20Sheet%20Template.md) | [Spell List]Character%20Spell%20List%20Template.md) | [Equipment]Character%20Equipment%20Template.md)
 ---
 	
 ## Introduction Questions
