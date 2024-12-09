@@ -1,0 +1,3 @@
+# DREAD MASTER
+
+Beginning at 10th level, you gain resistance to psychic damage. In addition, you are immune to fear, and when another creature targets you with an effect that causes the frightened condition, you can use your reaction to turn the fear back on that creature. The creature must succeed on a Wisdom saving throw against your shadowcaster spell save DC or be frightened of you for 1 minute. The target can repeat the save at the end of each of its turns to end the effect.

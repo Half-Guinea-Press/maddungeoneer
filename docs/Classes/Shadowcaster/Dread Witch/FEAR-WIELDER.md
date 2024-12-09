@@ -1,0 +1,3 @@
+# FEAR-WIELDER
+
+At 6th level, whenever you make a Charisma (Intimidation) check, you add double your proficiency bonus to the check instead of your normal proficiency bonus. In addition, when you are subject to an effect meant to cause you to become frightened—even if you successfully save or are immune to fear—you can choose to gain a special form of inspiration that you must spend before the end of your next turn. You can gain this even if you already have inspiration. Once you use this feature, you can’t do so again until you finish a short or long rest.

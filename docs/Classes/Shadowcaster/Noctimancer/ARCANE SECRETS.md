@@ -1,0 +1,3 @@
+# ARCANE SECRETS
+
+At 10th level, choose three spells from the wizard spell list that do not also appear on the shadowcaster spell list: one 1st-level spell, one 2nd-level (or lower) spell, and one 3rd-level (or lower) spell. You add these to your spells known, and they are shadowcaster spells for you. At 14th level, add one additional wizard spell that does not appear on your shadowcaster spell list, of 4th level or lower, to your spells known. It is a shadowcaster spell for you.

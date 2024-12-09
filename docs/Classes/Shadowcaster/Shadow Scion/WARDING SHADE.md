@@ -1,0 +1,3 @@
+# WARDING SHADE
+
+At 1st level, you gain proficiency in the Arcana skill. In addition, when a creature within 5 feet of you that you can see hits you with an attack, the shadows of the environment lash out on your behalf. You can use your reaction to force the creature to make a Constitution saving throw. The creature takes 1d8 cold damage and 1d8 necrotic damage on a failed save, or half as much damage on a successful one. Once you have used this ability, you can’t do so again until you finish a short or long rest.

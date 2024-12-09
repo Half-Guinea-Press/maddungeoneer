@@ -1,0 +1,3 @@
+# DREAD PRESENCE
+
+At 1st level, you gain proficiency in the Intimidation skill. In addition, as an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your shadowcaster spell save DC. Creatures that fail their saving throws are frightened by you until the end of your next turn. Once you use this ability, you can’t do so again until you finish a short or long rest.

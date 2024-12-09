@@ -1,0 +1,3 @@
+# Gloaming Feast
+
+When you reach 3rd level, your bond to the Plane of Shadow allows you to absorb tenebrous energies that fulfil or mitigate certain biological needs. You no longer require food or drink. Additionally, you only need four hours of sleep (or trance for only two, if you’re an elf), which is sufficient for you to finish a long rest. At 8th level, your needs lessen even further, to a single hour of sleep (or half an hour of trance) per night. At 13th level, you become immune to nonmagical disease and poison. Finally, at 18th level, you no longer need to breathe, and never require sleep or trance. Magic can’t put you to sleep.

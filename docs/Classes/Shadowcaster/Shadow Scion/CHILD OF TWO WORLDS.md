@@ -1,0 +1,3 @@
+# CHILD OF TWO WORLDS
+
+As of 6th level, you no longer suffer exhaustion from extremes of heat or cold, nor do you have disadvantage on Wisdom (Perception) checks due to wind or rain. Additionally, when you finish a long rest, you can choose to infuse yourself with the essence of the Plane of Shadow. You gain resistance to cold damage and necrotic damage, but vulnerability to radiant damage, until you finish a long rest.

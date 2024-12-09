@@ -1,0 +1,3 @@
+# ELDRITCH WARD
+
+At 6th level, whenever you make an Intelligence (Arcana) check, you add double your proficiency bonus to the check instead of your normal proficiency bonus. Also, when you are targeted by a spell that either requires an attack roll or forces you to make a saving throw, you can use your reaction to impose disadvantage on the attack roll or to gain advantage on the saving throw. (If a spell involves both an attack roll and a saving throw, you impose disadvantage on the attack roll but gain no benefit on the save.) One you use this ability, you can’t do so again until you finish a short or long rest.
