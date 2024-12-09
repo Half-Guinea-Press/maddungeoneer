@@ -1,0 +1,3 @@
+# SMOKE BOMB
+
+By removing your bomb’s explosive contents entirely, you can change it into a smoke bomb. A smoke bomb deals no damage but fills a 10-foot radius sphere with smoke. This fog spreads around corners and its area is heavily obscured. It lasts for a number of rounds equal to your Intelligence modifier or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. Once you throw one of these bombs, you can’t throw another for 1 minute.

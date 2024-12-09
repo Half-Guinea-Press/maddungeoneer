@@ -1,0 +1,3 @@
+# PSIONIC BOMB
+
+By mixing your bomb’s explosive contents with dust from a psionic crystal, you can change it into a psionic bomb. A psionic bomb deals psychic damage instead of fire damage, has d6 damage dice, and requires a Wisdom saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, has disadvantage on Constitution saving throws it makes to maintain concentration on spells until the end of its next turn.

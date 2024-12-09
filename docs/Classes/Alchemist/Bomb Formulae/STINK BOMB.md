@@ -1,0 +1,3 @@
+# STINK BOMB
+
+By adding a single drop of skunkanide, a chemical too unholy to expound upon, you can change it into a stink bomb. A stink bomb deals poison damage instead of fire damage, has d8 damage dice, and requires a Constitution saving throw instead of a Dexterity save. Additionally, the target, as well as each creature within the blast radius that fails its saving throw, has disadvantage on ability checks it makes before the end of its next turn.

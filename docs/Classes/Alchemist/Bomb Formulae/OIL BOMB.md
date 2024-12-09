@@ -1,0 +1,3 @@
+# OIL BOMB
+
+By mixing your bomb’s explosive contents with a few drops of a super-surfactant, you can change it into an oil bomb. An oil bomb does not deal damage, but coats each creature within the blast radius in a sticky, flammable oil. The next time a creature coated in oil takes fire damage, it takes an additional d6 damage for each die of fire damage rolled, up to a maximum of half your alchemist level, rounded up. Oil can be removed by dousing a creature with a gallon of water.
