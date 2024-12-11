@@ -20,5 +20,12 @@
   {% for message in get_flashed_messages() %}
     <div class="flash">{{ message }}</div>
   {% endfor %}
-  {% block content %}{% endblock %}
+  {% block content %}
+  <h1>Main Flask App</h1>
+        <h2>Select your Dash App</h2>
+        <ul>
+            <li><a href='/simple_app/'>Simple App</a></li>
+            <li><a href='/population/'>Population</a></li>
+        </ul>
+  {% endblock %}
 </section>
