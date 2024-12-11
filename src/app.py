@@ -1,6 +1,6 @@
 #host/app.py
 
-from flask import Flask, render_template_string, g
+from flask import Flask, render_template_string, render_template, g
 import ssl
 import pandas as pd
 from dash_apps import simple_app, population
@@ -22,11 +22,4 @@ with app.app_context():
 
 @app.route("/")
 def home():
-    return render_template_string(f"""
-        <h1>Main Flask App</h1>
-        <h2>Select your Dash App</h2>
-        <ul>
-            <li><a href='/simple_app/'>Simple App</a></li>
-            <li><a href='/population/'>Population</a></li>
-        </ul>"""
-    )
+    return render_template('base.html')
