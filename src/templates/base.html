@@ -59,10 +59,12 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
+        {% block nav %}
+		<li class="active"><a href="#">Home</a></li>
         <li><a href="#">Campaigns</a></li>
         <li><a href="#">Worlds</a></li>
 		<li><a href="#">Mechanics</a></li>
+		{% endblock %}
       </ul>
       <ul class="nav navbar-nav navbar-right">
 	    <li><a href="#">About</a></li>
