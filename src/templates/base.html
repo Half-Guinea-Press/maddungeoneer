@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <title>{% block title %}{% endblock %}The Mad Dungeoneer</title>
+  <title>{% block title %}{% endblock %} - The Mad Dungeoneer</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,8 +16,10 @@
     {% endblock %}
   </header>
   <nav>
-    {% block nav %}
-    {% endblock %}
+    <a href="/">Home</a>
+	{% block nav %}
+	{% endblock %}
+	<a href="/about">About</a>
   </nav>
   <div>
     {% block content %}
