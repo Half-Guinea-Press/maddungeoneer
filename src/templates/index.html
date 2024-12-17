@@ -1,10 +1,11 @@
 {% extends 'base.html' %}
 
-{% block header %}
-  <h1>{% block title %}Home{% endblock %}</h1>
-{% endblock %}
+{% block title %}Home - {% endblock %}
 {% block nav %}
-<a href="/campaigns">Campaigns</a>
+<li class="active"><a href="#">Home</a></li>
+<li><a href="#">Campaigns</a></li>
+<li><a href="#">Worlds</a></li>
+<li><a href="#">Mechanics</a></li>
 {% endblock %}
 {% block content %}
 <p>This is the index page because I said so.</p>
