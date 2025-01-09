@@ -6,10 +6,11 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
 #    - navigation.indexes
+    - navigation.sections
     - navigation.tracking
     - navigation.prune
     - content.tooltips
-#    - toc.integrate
+    - toc.integrate
     font:
        text: Playfair Display
        code: Red Hat Mono
