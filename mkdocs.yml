@@ -62,8 +62,9 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - tables
-  # - toc:
-  #    permalink: true
+  - toc:
+      permalink: true
+      toc_depth: 0
   # Python Markdown Extensions
   - pymdownx.betterem:
       smart_enable: all
