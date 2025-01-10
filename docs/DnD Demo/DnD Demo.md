@@ -46,7 +46,6 @@ hide:
         Proficiency Bonus +2  
         ---
         Amphibious: The merrow can breath air and water.  
-        ---
         Actions
         - Multiattack: The Merrow makes one bite attack and one claw attack.
         - Bite: *Melee Weapon Attack* +5 to hit, reach 5ft, one target, Hit 7 (1d8+3) piercing damage.
