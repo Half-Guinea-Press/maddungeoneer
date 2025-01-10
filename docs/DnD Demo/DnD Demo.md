@@ -6,7 +6,7 @@ hide:
 
 # Voyage to Stormwreck Isle
 
-=== Set the Scene
+=== "Set the Scene"
 
     *Read this text to set the scene:*
         
@@ -20,7 +20,7 @@ hide:
     
     > "These waters belong to the Scaled Queen. I'm here to collect her tribute."
 
-=== Explaining the Game
+=== "Explaining the Game"
 
     *Read or paraphrase this boxed text:*
     
@@ -28,7 +28,7 @@ hide:
     > I've just told you the situation you're in. What happens next is up to you. You're all trained for combat, so if you want to fight this monster, I can help you do that. But you can also try to negotiate with the monster, or trick it, or anything else you can imagine.
     > Just about anything you can think of to try will require some combination of skill, natural ability, and luck to pull off. And the D&D game represents that by having you roll one of these 20-sided dice and add a number from your sheet. So... what do you want to do?
 
-=== Run the Encounter
+=== "Run the Encounter"
     
     !!! info inline end "Merrow Extortionist"
         
