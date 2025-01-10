@@ -1,0 +1,855 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../DnD%20Demo/DnD%20Demo/">
+      
+      
+        <link rel="next" href="../../Templates/NPC%20Block%20Template/">
+      
+      
+      <link rel="icon" href="../../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Squaloan - The Mad Dungeoneer</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playfair+Display:300,300i,400,400i,700,700i%7CRed+Hat+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Playfair Display";--md-code-font:"Red Hat Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="The Mad Dungeoneer" class="md-header__button md-logo" aria-label="The Mad Dungeoneer" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 4h-2l-1-2h4zm6 9v9H5v-9c0-2.76 2.24-5 5-5V6H9V5h6v1h-1v2c2.76 0 5 2.24 5 5m-2 0c0-1.65-1.35-3-3-3h-4c-1.65 0-3 1.35-3 3v7h10z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            The Mad Dungeoneer
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Squaloan
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  The Mad Dungeoneer
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Campaign%20H/Campaign%20H/" class="md-tabs__link">
+          
+  
+  Campaign H
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Campaign%20N/Campaign%20N/" class="md-tabs__link">
+          
+  
+  Campaign N
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Classes/Alchemist/ALCHEMY%20GOLEM/" class="md-tabs__link">
+          
+  
+  Classes
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../DnD%20Demo/DnD%20Demo/" class="md-tabs__link">
+          
+  
+  DnD Demo
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  Species
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Templates/NPC%20Block%20Template/" class="md-tabs__link">
+          
+  
+  Templates
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="The Mad Dungeoneer" class="md-nav__button md-logo" aria-label="The Mad Dungeoneer" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 4h-2l-1-2h4zm6 9v9H5v-9c0-2.76 2.24-5 5-5V6H9V5h6v1h-1v2c2.76 0 5 2.24 5 5m-2 0c0-1.65-1.35-3-3-3h-4c-1.65 0-3 1.35-3 3v7h10z"/></svg>
+
+    </a>
+    The Mad Dungeoneer
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The Mad Dungeoneer
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../Campaign%20H/Campaign%20H/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Campaign H
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../Campaign%20N/Campaign%20N/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Campaign N
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    
+  
+  
+    <a href="../../Classes/Alchemist/ALCHEMY%20GOLEM/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Classes
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../DnD%20Demo/DnD%20Demo/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    DnD Demo
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Species
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Species
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Squaloan
+  </span>
+  
+
+      </a>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+        
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+    <a href="../../Templates/NPC%20Block%20Template/" class="md-nav__link">
+      
+  
+  <span class="md-ellipsis">
+    Templates
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="squaloan">Squaloan<a class="headerlink" href="#squaloan" title="Permanent link">&para;</a></h1>
+<p>“Aye, I can take you 'cross the water, but its gonna cost ya'.” stated the older dwarf, his thick grayed beard drenched in whatever foul smelling ale he was drinking. “See those are squal waters. Normally fine folk, if you follow their rules. But step out a'line, or - gods forbid! - bring a merfolk, and you're shark meat friend.” “Don’t give them a bad name. They’ve saved many ships” protested the younger elven man sitting next to him. “And sunk just as many! Now, do ya' want my ship or not?”</p>
+<p>Tall, frightening, and tailless shark-like creatures with a wicked smile, squaloans often terrify would be sailors from ever crossing the seas. From lone hunters, to groups sized in the small hundreds, squaloan call the seas home. Very little ties an individual squaloan to another, but most form families in parts of the ocean rich with life, like coral reefs. While separate, and often very different in culture, two things binds them together: An extreme distrust of merfolk and fey, and an innate brutish nature that often leads to conflict.</p>
+<h2 id="mercencaries-of-the-sea">Mercencaries of the sea<a class="headerlink" href="#mercencaries-of-the-sea" title="Permanent link">&para;</a></h2>
+<p>Squaloans tread on the borders between civility and tribalism at all times. Each clan finds its own way of life, but most tend to lead to a similar path. Due to their immense strength and knowledge of the seas, it's extremely common for sailors to hire local clans of squaloan to guide ships. As long as the sailors pay what they are due, there's rarely issue, but due to a few greedy sailors many have heard of the ferocity of a hostile squoloan.</p>
+<p>This coupled with the more territorial and hostile tribes gives squaloan a bad reputation among many, and has lead to several cities hunting them to near extinction.</p>
+<h2 id="friends-for-life">Friends for life<a class="headerlink" href="#friends-for-life" title="Permanent link">&para;</a></h2>
+<p>Squaloans dont often make friends outside their tribe, often finding bond in what is called in their tribe a “Squail Brother”. This is a permanent bond between two squaloan as hunting family, and while similar to marriage of other races, this does not necessarily entail a romantic relationship. Squail brothers have an understanding they would die to protect one another, and take this agreement only if one is truly worthy, considering it the highest form of respect. It is unusual but not unheard of for races outside squaloan to become one's Squail brother, but is never mocked or looked down on. To a squaloan, if one is worthy of being called a squail brother, then they are worthy of respect.</p>
+<h2 id="squaloan-names">Squaloan Names<a class="headerlink" href="#squaloan-names" title="Permanent link">&para;</a></h2>
+<p>Squaloan are not given names at birth, instead they usually decide what it is when they finish their first hunt, but this changes tribe to tribe. The only thing that doesn't change is the first hunt: it's always a fey, a sahuagin, or merrow. The chosen name often focuses on a specific element of that hunt, like a wound inflicted or received, a feeling, or an element of the environment. Squaloan have recently begun to take on human names as more and more interact with other species.</p>
+<p>Tribe Names take on the location they inhabit.
+- Common Classic Squaloan Names: Lost Blood, Blue Scales, Festered Wound, Murky, Night
+- Tribe Names: Of Lost Seas, Beneath Coral Shelves, Beside rocky shores, Of the depths unseen</p>
+<h2 id="squaloan-traits">Squaloan Traits<a class="headerlink" href="#squaloan-traits" title="Permanent link">&para;</a></h2>
+<h3 id="ability-score-increase">Ability Score Increase.<a class="headerlink" href="#ability-score-increase" title="Permanent link">&para;</a></h3>
+<p>Your Strength score increases by 2.</p>
+<h3 id="age">Age.<a class="headerlink" href="#age" title="Permanent link">&para;</a></h3>
+<p>Squaloan have vastly different lifespans depending on their subrace.
+- Brutes reach adulthood by 5, and live to be around 40.
+- Trackers reach adulthood by 9, and live to be around 50.
+- Chasers reach adulthood by 26, and live to be around 80.
+- Deep Oceans reach adulthood by 50, and live to be around 600.</p>
+<h3 id="size">Size.<a class="headerlink" href="#size" title="Permanent link">&para;</a></h3>
+<p>Squaloan come in many different sizes but below is an idea of how large each subrace tends to be.
+- Brutes tend to be the second largest, upwards of 6-7 feet tall and over 200 lbs.
+- Trackers are the second smallest, often around 5 feet and 150 lbs
+- Chasers have both the largest and smallest squaloans, anywhere from over 300 lbs and 7 feet tall to barely 100 lbs and 4 ft tall.
+- Deep Ocean squaloans tend towards the middle, roughly human sized, though they may skew larger or smaller.</p>
+<p>A squaloan's size is medium, but you may choose to be small if you choose the Deep Ocean subrace.</p>
+<h3 id="languages">Languages.<a class="headerlink" href="#languages" title="Permanent link">&para;</a></h3>
+<p>You can speak, read, and write Aquan and Common.</p>
+<h3 id="alignment">Alignment.<a class="headerlink" href="#alignment" title="Permanent link">&para;</a></h3>
+<p>Squaloan tend to be chaotic in nature, and are often neutral.</p>
+<h3 id="speed">Speed.<a class="headerlink" href="#speed" title="Permanent link">&para;</a></h3>
+<p>Your base walking speed is 30 feet, and you have a swimming speed equal to your walking speed.</p>
+<h3 id="amphibious">Amphibious.<a class="headerlink" href="#amphibious" title="Permanent link">&para;</a></h3>
+<p>You can breathe both air and water normally.</p>
+<h3 id="darkvision">Darkvision.<a class="headerlink" href="#darkvision" title="Permanent link">&para;</a></h3>
+<p>Accustomed to the dark depths of the oceans, you have superior sight in dark and dim lighting. You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only Shades of Gray.</p>
+<h3 id="seasoned-hunter">Seasoned Hunter.<a class="headerlink" href="#seasoned-hunter" title="Permanent link">&para;</a></h3>
+<p>You have proficiency with harpoons, tridents, spears, and nets.</p>
+<h3 id="hunters-instincts">Hunter's Instincts.<a class="headerlink" href="#hunters-instincts" title="Permanent link">&para;</a></h3>
+<p>You have proficiency with one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.</p>
+<h3 id="bite">Bite.<a class="headerlink" href="#bite" title="Permanent link">&para;</a></h3>
+<p>You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals 1d6 + your Strength modifier piercing damage, instead of the bludgeoning damage normal for an unarmed strike.</p>
+<h3 id="find-the-weak">Find the Weak.<a class="headerlink" href="#find-the-weak" title="Permanent link">&para;</a></h3>
+<p>Your keen sense of smell easily detects traces of blood in the air or in water. You can use your Bonus Action to detect if any creatures within 30 feet of you are missing at least half of their hit points. If so, you know where those creatures are located. The range for this ability becomes 60 feet while you and those creatures are under the same body of water. Only creatures capable of bleeding with a CR equal to or less than your level + your proficiency bonus may be detected in this way.</p>
+<h3 id="blood-frenzy">Blood Frenzy.<a class="headerlink" href="#blood-frenzy" title="Permanent link">&para;</a></h3>
+<p>Each subrace grants a trait that provides bonuses against blood frenzy targets. Blood frenzy targets are creatures capable of bleeding that have been detected by your Find the Weak ability. The save DC for any blood frenzy ability that calls for a check or save against it is 8 + Your Strength Modifier + Your Proficiency Bonus.</p>
+<h2 id="squaloan-brute">Squaloan Brute<a class="headerlink" href="#squaloan-brute" title="Permanent link">&para;</a></h2>
+<p>Nicknamed "Slayers of men", the brutes' raw aggression has led the species as a whole to having a bad name. The smell of any large amount of blood in the water pushes them towards a ferocious frenzy, attacking whatever is bleeding. This, on top of being some of the larger of their kind, leads to an imposing figure often teetering on and off the edge of brutality.</p>
+<h3 id="ability-score-increase_1">Ability Score Increase.<a class="headerlink" href="#ability-score-increase_1" title="Permanent link">&para;</a></h3>
+<p>Your Constitution score increases by 1.</p>
+<h3 id="brute-frenzy">Brute Frenzy.<a class="headerlink" href="#brute-frenzy" title="Permanent link">&para;</a></h3>
+<p>The smell of blood drives you into a frenzy. Once per turn, when you damage a Blood Frenzy target with a melee weapon or an unarmed strike, you can cause the attack to deal 1d4 extra damage of the same type. Additionally, when you take the attack action against a Blood Frenzy target, you can make a Bite attack as a bonus action against the same target.</p>
+<h3 id="blood-frenzied-bite">Blood Frenzied Bite.<a class="headerlink" href="#blood-frenzied-bite" title="Permanent link">&para;</a></h3>
+<p>Your feral frenzying causes your bites to rip into targets, making them bleed heavily. When you hit a blood frenzy target with your Bite Attack, you may choose to have the target take half the damage done at the start of each of their turns until they spend their action to stop the bleeding. Once you use this trait, you must finish a short or long rest before you can do so again.</p>
+<h2 id="squaloan-tracker">Squaloan Tracker<a class="headerlink" href="#squaloan-tracker" title="Permanent link">&para;</a></h2>
+<p>Whenever a squaloan tribe is struggling with a smarter foe, from single enemies to all out warring, groups are sent with trackers. Trackers specialize in finding hidden enemies, and thanks to their specialized teeth, damaging them to cause extreme hemorrhaging which helps other Squaloan to find and deal with them.</p>
+<h3 id="ability-score-increase_2">Ability Score Increase.<a class="headerlink" href="#ability-score-increase_2" title="Permanent link">&para;</a></h3>
+<p>Your Wisdom score increases by 1.</p>
+<h3 id="serrated-teeth">Serrated Teeth.<a class="headerlink" href="#serrated-teeth" title="Permanent link">&para;</a></h3>
+<p>You have more specialized teeth for tearing through flesh. Your bite becomes a d8. Ocean Sense. You have a blindsight out to 60 feet while underwater. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you. This functions only against creatures and objects within the same body of water as you.</p>
+<h3 id="blood-frenzied-senses">Blood Frenzied Senses.<a class="headerlink" href="#blood-frenzied-senses" title="Permanent link">&para;</a></h3>
+<p>The smell of a dying enemy makes it hard for them to lose you. You can see blood frenzy targets within 30 feet of you as though you had blindsight. This effect extends to 90 feet if both you and the target are in the same body of water. You also gain a +1 bonus to attack rolls against said targets.</p>
+<h2 id="squaloan-chaser">Squaloan Chaser<a class="headerlink" href="#squaloan-chaser" title="Permanent link">&para;</a></h2>
+<p>Chasers live and breathe rushing down their targets and keeping distance until the time is right. They hold an integral part in their communities in making sure little to nothing escapes. Their speed allows them to be both a mix of powerful casters maintaining a good distance and quick skirmishers weaving in and out of combat.</p>
+<h3 id="ability-score-increase_3">Ability Score Increase.<a class="headerlink" href="#ability-score-increase_3" title="Permanent link">&para;</a></h3>
+<p>Your Dexterity score increases by 1.</p>
+<h3 id="blood-frenzied-chase">Blood Frenzied Chase.<a class="headerlink" href="#blood-frenzied-chase" title="Permanent link">&para;</a></h3>
+<p>The smell of blood drives you to chase your prey down, refusing to let it escape. As a bonus action you can target one Blood Frenzy target. You may have no more than one creature targeted by this feature at any time. You gain a 10 foot bonus to your movement speed and a 20 foot bonus to your swim speed to move directly towards or away from the targeted creature.</p>
+<p>You also gain advantage on Intelligence (Investigation), Wisdom (Perception), and Wisdom (Survival) checks to track or spot any Blood Frenzy targets.</p>
+<h2 id="deep-ocean-squaloan">Deep Ocean Squaloan<a class="headerlink" href="#deep-ocean-squaloan" title="Permanent link">&para;</a></h2>
+<p>Deep Ocean Squaloans often serve as shamans for their tribe, but prefer to spend their time in the ocean depths. Every few years, these squaloan hold secret meetings in the deepest reaches of the ocean to share knowledge between tribes and discuss the health of their society.</p>
+<h3 id="ability-score-increase_4">Ability Score Increase.<a class="headerlink" href="#ability-score-increase_4" title="Permanent link">&para;</a></h3>
+<p>Your Charisma score increases by 1.</p>
+<h3 id="deep-water-adaptation">Deep Water Adaptation.<a class="headerlink" href="#deep-water-adaptation" title="Permanent link">&para;</a></h3>
+<p>You are adapted to withstand the pressures of the deepest parts of the ocean. You have resistance to cold damage, and as a bonus action you can glow, emitting bright light in a 5-foot-radius and dim light for an additional 5 feet. The light can be colored as you like. You can also cause the light to emit in a specific design from your body, such as a skeleton or lightning bolts.</p>
+<h3 id="blood-frenzied-curse">Blood Frenzied Curse.<a class="headerlink" href="#blood-frenzied-curse" title="Permanent link">&para;</a></h3>
+<p>Choose one blood frenzy target. The target must make a Wisdom saving throw against your Blood Frenzy Save DC. A target automatically succeeds on the saving throw if they do not not rely on sight or cannot be charmed. On a failed save, the target becomes blinded. While blinded this way, the target can can only faintly perceive sources of light. At the end of their turn, they can make another Wisdom saving throw to try to end the effect. On a success, this feature has no effect. You must maintain concentration on this as you would a spell. Once you use this feature, you cannot use it until you finish a short or long rest.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.top", "navigation.tabs", "navigation.tabs.sticky", "navigation.sections", "navigation.tracking", "navigation.prune", "content.tooltips", "toc.integrate"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+        <script src="https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js"></script>
+      
+        <script src="../../javascripts/tablesort.js"></script>
+      
+    
+  </body>
+</html>
