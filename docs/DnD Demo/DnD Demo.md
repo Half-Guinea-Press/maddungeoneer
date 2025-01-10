@@ -28,6 +28,8 @@ hide:
 > I've just told you the situation you're in. What happens next is up to you. You're all trained for combat, so if you want to fight this monster, I can help you do that. But you can also try to negotiate with the monster, or trick it, or anything else you can imagine.
 > Just about anything you can think of to try will require some combination of skill, natural ability, and luck to pull off. And the D&D game represents that by having you roll one of these 20-sided dice and add a number from your sheet. So... what do you want to do?
 
+## Run the Encounter
+
 !!! info inline end "Merrow Extortionist"
     
 	*Large Monstrosity, Typically Chaotic Evil*
@@ -70,8 +72,6 @@ hide:
 	Claws: *Melee Weapon Attack* +5 to hit, reach 5ft, one target  
 	Hit 9 (2d4+3) piercing damage.
 	
-## Run the Encounter
-
 Let the players take the lead! They can try anything they can imagine. 
 
 Encourage the players to let you know if they have any ideas. Ask them to let you know what they are thinking and then run with it!
