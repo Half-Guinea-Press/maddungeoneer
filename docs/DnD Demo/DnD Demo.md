@@ -32,18 +32,14 @@ hide:
     
     !!! info inline end "Merrow Extortionist"
         
-    	*Large Monstrosity, Typically Chaotic Evil*
+    	Large Monstrosity, Typically Chaotic Evil  
     	---    	
     	Armor Class 13 (natural armor)  
     	Hit Points 30 (4d10+8)  
     	Speed 10ft., swim 40ft.  
     	---    
-    	STR 16 (+3)  
-    	DEX 10 (+0)  
-    	CON 15 (+2)  
-    	INT  8 (-1)  
-    	WIS 10 (+0)  
-    	CHR  9 (-1)  
+    	STR 16/+3 DEX 10/+0 CON 15/+2  
+    	INT  8/-1 WIS 10/+0 CHR  9/-1  
     	---    	
     	Senses: Darkvision 60ft., Passive Perception 10  
     	Languages: Common, Abyssal, Aquan  
