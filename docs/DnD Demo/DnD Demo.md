@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Voyage to Stormwreck Isle
 
 ## Set the Scene
