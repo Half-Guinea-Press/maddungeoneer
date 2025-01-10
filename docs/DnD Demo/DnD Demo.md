@@ -69,3 +69,43 @@ When the characters have dealt with the merrow, one way or another, read this te
 > With a splash, the merrow disappears into the ocean deeps and the ship continues on its way. The sailors raise a cheer, and the storm brewing overhead seems not quite so threatening now.
 
 > And that brings us to the end of your first tast of adventure. Thanks for playing!
+
+!!! info inline end "Merrow Extortionist"
+    
+	*Large Monstrosity, Typically Chaotic Evil*
+	
+	---
+	
+	Armor Class 13 (natural armor)  
+	Hit Points 30 (4d10+8)  
+	Speed 10ft., swim 40ft.
+	
+	---
+	
+	| STR | DEX | CON | INT | WIS | CHR |
+	| :-: | :-: | :-: | :-: | :-: | :-: |
+	| 16  | 10  | 15  | 8   | 10  | 9   |
+	| +3  | 0   | +2  | -1  | 0   | -1  |
+	
+	---
+	
+	Senses: Darkvision 60ft., Passive Perception 10
+	Languages: Common, Abyssal, Aquan
+	Challeng 1 (200xp)
+	Proficiency Bonus +2
+	
+	---
+	
+	Amphibious: The merrow can breath air and water.
+	
+	---
+	
+	Actions
+	
+	Multiattack: The Merrow makes one bite attack and one claw attack.
+	
+	Bite: *Melee Weapon Attack* +5 to hit, reach 5ft, one target  
+	Hit 7 (1d8+3) piercing damage.
+	
+	Claws: *Melee Weapon Attack* +5 to hit, reach 5ft, one target  
+	Hit 9 (2d4+3) piercing damage.
